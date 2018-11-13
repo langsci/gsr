@@ -1,32 +1,37 @@
 \documentclass[a4paper]{article}
 \usepackage{libertine}
+\usepackage{xspace,booktabs,xcolor}
 \newcommand{\stylepath}{}
-\usepackage{langsci-gb4e}
-\renewcommand{\exfont}{\normalsize\itshape}
-\let\eagsrchwordone=\itshape
 \usepackage{url}
 \urlstyle{same}
-\usepackage{langsci-lgr}
-\usepackage{xspace}
-\usepackage{booktabs}
-\usepackage{xcolor}
-\usepackage{langsci-basic}
+
+\usepackage{fontspec}
 \newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{AR PL UMing CN}
 \newcommand{\zh}[1]{{\cn #1}}
 \XeTeXlinebreaklocale 'zh'  
 \XeTeXlinebreakskip = 0pt plus 1pt
-	
+
+\usepackage{langsci-gb4e}
+\usepackage{langsci-lgr}
+\usepackage{langsci-basic}
+%set italics font for examples
+\renewcommand{\exfont}{\normalsize\itshape}
+\let\eachwordone=\itshape
+
+%colour examples and example strings in blue
 \newenvironment{gsrexq}{\begin{quote}\color{blue}}{\end{quote}}
 \newcommand{\gsrex}[1]{{\color{blue}#1}}
-\newcommand{\RL}{\textsc{rl}}
 \newcommand{\eagsr}{\bgroup\color{blue}\ea}
 \newcommand{\zgsr}{\z\egroup}
+
+% provide non-LGR abbreviation
+\newcommand{\RL}{\textsc{rl}}
 
 \date{\today}
 \title{The Generic Style Rules for Linguistics: Toward discipline-wide text-structure style rules}
 \author{Martin Haspelmath}
+
 \begin{document}
- 
 \maketitle 
 
 Scientists have
@@ -41,7 +46,7 @@ there is no need for style rules anymore. It makes our research and our
 publication activities easier if we agree on a common set of conventions
 for frequently recurring structural aspects of our writings, of the sort
 that are commonly prescribed in journal style sheets (such conventions
-are called TEXT-STRUCTURE style here). But it is inefficient if these
+are called \textsc{text-structure} style here). But it is inefficient if these
 rules are set by individual journal editors or publishers, because
 scientists usually publish in diverse venues, and being forced to apply
 different style rules in different papers is an unnecessary burden on
@@ -245,13 +250,13 @@ use or definition,\footnote{This is in line with the Language stylesheet.
 The De Gruyter stylesheet requires italics for this purpose.} e.g.
 
 \begin{gsrexq}
-On
-this basis, the two main alignment types, namely 
+On this basis, the two main alignment types, namely 
 \textsc{nominative-accusative}
 and 
 \textsc{ergative-absolutive}, 
 are distinguished. 
 \end{gsrexq}
+
 Small caps are also used
 for category abbreviations in interlinear glossing (see \sectref{sec:abbreviations}, \sectref{sec:numberedexamples}), and
 they may be used to indicate stress or focusing in example sentences:
@@ -280,11 +285,11 @@ Single quotation marks are used exclusively for linguistic meanings
 cases (citations, scare quotes):
 
 \begin{itemize}
-  \item  When a passage from another work is cited in the text, e.g.\footnote{But note that blockquotes do not have quotation marks.}
+\item  When a passage from another work is cited in the text, e.g.\footnote{But note that blockquotes do not have quotation marks.}
     \begin{gsrexq} 
       According to Takahashi (2009: 33), ``quotatives were never used in subordinate clauses in Old Japanese''.
     \end{gsrexq}
-  \item When a technical term or other expression is mentioned that the author does not want to adopt,\footnote{Alternatively, italics could be used here.} e.g.
+\item   \item When a technical term or other expression is mentioned that the author does not want to adopt,\footnote{Alternatively, italics could be used here.} e.g.
     \begin{gsrexq}
       This is sometimes called ``pseudo-conservatism'', but I will not use this term here, as it could lead to confusion.
     \end{gsrexq}
@@ -307,13 +312,10 @@ if they are short, in a footnote if they are longer).
 
 \section{Other punctuation matters}\label{sec:other-punctuation-matters}
 
-The n-dash (\gsrex{--}) surrounded by spaces is used for parenthetical remarks
--- as in this example -- rather than the m-dash (\gsrex{---}). The n-dash is
-also used for number ranges, but not surrounded by spaces
+The n-dash (\gsrex{--}) surrounded by spaces is used for parenthetical remarks -- as in this example -- rather than the m-dash (\gsrex{---}). The n-dash is also used for number ranges, but not surrounded by spaces
 (e.g.~\gsrex{1995--1997}).
 
-Ellipsis in a quotation is indicated by
-\gsrex{\ldots}. 
+Ellipsis in a quotation is indicated by \gsrex{\ldots}. 
 
 Angle brackets are used for specific reference to
 written symbols, e.g.~\gsrex{the letter \textlangle q\textrangle}.
@@ -323,8 +325,7 @@ written symbols, e.g.~\gsrex{the letter \textlangle q\textrangle}.
 Abbreviations of uncommon expressions should be avoided in the text.
 Language names should not normally be abbreviated. 
 
-The use of
-abbreviations is desirable for grammatical category labels in
+The use of abbreviations is desirable for grammatical category labels in
 interlinear morpheme-by-morpheme translations. (The Leipzig Glossing
 Rules include a standard list of frequently used and widely understood
 category label abbreviations.) 
@@ -366,11 +367,7 @@ But when a numbered example is not glossed and translated (i.e.~in
 English works, when it is from English), it may be in roman (non-italic)
 type. Thus, (2a-b) could alternatively be printed in roman.
 
-Cross-references to examples use numbers in parentheses as well,\footnote{
-This is the most widespread practice, although the Language stylesheet
-omits the parentheses in cross- references.} but when a cross-
-reference occurs inside parentheses, the parentheses around the numbers
-can be omitted:
+Cross-references to examples use numbers in parentheses as well,\footnote{This is the most widespread practice, although the Language stylesheet omits the parentheses in cross- references.} but when a cross-reference occurs inside parentheses, the parentheses around the numbers can be omitted:
 
 \begin{gsrexq}
   As shown in (6) and (8-11), this generalization extends to transitive constructions, but (29b) below constitutes an exception.
@@ -482,6 +479,7 @@ idiomatic translation, as in the following examples (see also (5-6) and
      Mother she.\PRS-give-\PRF{} father money\\
 \glt `Mother has given father money.' (Ssekiryango 2006: 67)
 \zgsr
+
 \eagsr
 \upshape Jalonke\\
 \gll  I    sig-aa     xon-ee          ma.\\
@@ -519,7 +517,7 @@ e.g.
 \centering
 \label{tab:sg-pl-of-sg}
 \caption{Frequency of some English nouns (BNC)}
-\begin{tabular}{lrlrr}
+\begin{tabular}{lr @{\qquad} lr @{\qquad} r}
 \toprule
 \multicolumn{2}{c}{\SG}&
 		\multicolumn{2}{c}{\PL} 
@@ -529,7 +527,7 @@ person  & 24671 & persons  & 4034 & 86\% \\
 house   & 49295 & houses   & 9840 & 83\% \\
 hare    & 488   & hares    & 136  & 78\% \\
 bear    & 1182  & bears    & 611  & 65\% \\
-feather & 487   & feathers & 810  & 38\% \\
+feather & 48 7  & feathers & 810  & 38\% \\
 \bottomrule
 \end{tabular}
 \end{table}
@@ -634,9 +632,6 @@ following names are sorted alphabetically (i.e.~mechanically) as
 indicated. 
 
 \begin{gsrexq}
- 
-
-
 Da Milano, Federica \\
 de Groot, Casper\\
 De Schutter, Georges \\
