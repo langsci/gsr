@@ -41,13 +41,72 @@ papers of a journal. The rules do not say anything about more specific notationa
 conventions that are relevant only to certain subcommunities of linguists, e.g. for
 syntactic tree representation, transcription of spoken dialogue, optimality-theoretic
 tableaux, and so on. (More specific style documents would be needed for each of these.)
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 1
-https://linguistlist.org/pubs/journals/	  
+https://linguistlist.org/pubs/journals/	
+  
 2
 http://www.eva.mpg.de/lingua/resources/glossing-rules.php
-	  
- 2	  
+	
+  
+ 2	
+  
 Nothing is said here about typographic features such as font type, font size,
 indentation and line spacing, let alone about margin and paper size. Traditional journal
 style sheets often specify these features as well, but such text-design features are aspects
@@ -90,7 +149,63 @@ section, all text within a section must belong to some subsection, and so on. A 
 introductory paragraph is allowed by way of exception.
 Section headings do not end with a period, and have no special capitalization (see §2).
 For the parts of monographs and edited volumes, see §17 below.
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 3
  Journal of Linguistics:
  http://assets.cambridge.org/LIN/LIN_ifc.pdf
@@ -101,8 +216,10 @@ Linguistic Inquiry:
 LI_Style_Sheet_8.20.13.pdf
 De Gruyter Mouton:
  http://www.degruyter.com/staticfiles/pdfs/mouton_journal_stylesheet.pdf
-	  
- 3	  
+	
+  
+ 3	
+  
 2. Capitalization
 Sentences, proper names and titles/headings/captions start with a capital letter, but there
 is no special capitalization (“title case”) within English titles/headings neither in the
@@ -136,7 +253,63 @@ the term quotative is not appropriate here
 I call this construction quotative.
 • For emphasis of a particular word that is not a technical term, e.g.
 This is possible here, but only here.
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 4
  Note that the title of the present document has special capitalization because the Generic Style Rules
 for Linguistics is a name.
@@ -144,9 +317,12 @@ for Linguistics is a name.
  Note that the character § is used instead of Section, see §13 below.
 6
  Italics are not used for commonly used loanwords such as ad hoc, façon de parler, e.g., et al., Sprachbund.
-	  
-	  
- 4	  
+	
+  
+	
+  
+ 4	
+  
 • For emphasis within a quotation, with the indication [emphasis mine] at the end of
 the quotation.
 4. Small caps
@@ -176,18 +352,78 @@ confusion.
 Single quotation marks are used exclusively for linguistic meanings,10 e.g.
 Latin habere ‘have’ is not cognate with Old English hafian ‘have’.
 Quotes within quotes are not treated in a special way.
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 7
 This is in line with the Language stylesheet. The De Gruyter stylesheet requires italics for this purpose.
 8
- But note that block quotations do marks.	  
-not have quotation9	 Alternatively, italics could be used here, cf. §3.
+ But note that block quotations do marks.	
+  
+not have quotation9	
+ Alternatively, italics could be used here, cf. §3.
 10
 The distinction between single and double quotation marks is not made by Language and Journal of
 Linguistics, but is very useful and is practiced widely (e.g. required by the Linguistic Inquiry and De Gruyter
 Mouton stylesheets).
-	  
- 5	  
+	
+  
+ 5	
+  
 Note that quotations from other languages should be translated (inline if they are short,
 in a footnote if they are longer).
 7. Other punctuation matters
@@ -225,15 +461,73 @@ citations, the year (plus page numbers) is enclosed in parentheses, while in bac
 citations, the parentheses can be omitted.12
 The page numbers follow the year after a colon and a space, and they are given with
 complete numbers (no digits dropped).
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 11
 Using a comma between author and year is widespread in other disciplines, but in linguistics it seems to be
 mostly confined to the Elsevier journals.
 12
 In line with majority usage, no special distinction is made here between the author and the published work
 (contrasting with the Language and Linguistic Inquiry stylesheets).
-	  
- 6	  
+	
+  
+ 6	
+  
 When there are two authors, the ampersand & (rather than and) is used, and when
 there are more than two authors, the most normal author-year name includes only the first
 surname plus et al. (though the full list of authors may be given if this helps the reader).13
@@ -270,7 +564,63 @@ it is from English), it may be in roman (non-italic) type. Thus, (2a-b) could al
 be printed in roman.
 Cross-references to examples use numbers in parentheses as well,15 but when a cross-
 reference occurs inside parentheses, the parentheses around the numbers can be omitted:
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 13
 Language now uses and colleagues rather than et al. (when the author rather the the work is referred to), but
 the latter is extremely widespread across the disciplines, so it is better to keep it. (It derives from Latin et alii
@@ -278,8 +628,10 @@ the latter is extremely widespread across the disciplines, so it is better to ke
 14
 Linguistics publications frequently use a comma in such listings, but the semicolon is much more frequent
 in other disciplines, so it is adopted here.
-	  
- 7	  
+	
+  
+ 7	
+  
 As shown in (6) and (8-11), this generalization extends to transitive constructions, but (29b) below
 constitutes an exception.
 In all other environments, the stress is on the second syllable (see 15a-d).
@@ -334,12 +686,171 @@ you slow
 b.*En bytaan-yaq-yŋ
 you slow-FUT-2SG
 (‘You will be slow.’) (Baker 2012: 7)
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 15
 This is the most widespread practice, although the Language stylesheet omits the parentheses in cross-
 references.
-	  
- 8	  
+	
+  
+ 8	
+  
 Ungrammatical examples can be given a parenthesized idiomatic translation, as in (6b). A
 literal translation may be given in parentheses after the idiomatic translation, e.g.
 (7) Japanese
@@ -387,8 +898,10 @@ Each table and each figure has a caption. The caption precedes a table and follo
 figure. If it is not a complete sentence, it is not followed by a period.
 Tables generally have a top line and a bottom line plus a line below the column
 headers, e.g.
-	  
- 9	  
+	
+  
+ 9	
+  
 Table 3: Frequency of some English nouns (BNC)
 SG
  PL
@@ -447,13 +960,71 @@ For the formatting, the Generic Style Rules follow the 2007 Unified Style Sheet 
 Linguistics in almost all respects. Four very minor differences (which simplify the rules
 by removing exceptions) are noted in footnotes 18-21 below.16 While the Unified Style
 Sheet limits itself to examples, the rules are spelled out here.
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 16
 The strongest justification for simple rules is that the references should be automatically parsable (e.g.
 by Google Scholar), and correct and complete author names should be extractable. In the modern age,
 this is crucial for scientometric and hence career-building purposes.
-	  
- 10	  
+	
+  
+ 10	
+  
 It should be noted especially that
 • the names of authors and editors should be given in their full form as in the
 publication, without truncation of given names (but note that some authors habitually
@@ -535,8 +1106,10 @@ edited volume, and thesis:
 • Journal article (journal title is immediately followed by the journal volume number):
 Milewski, Tadeusz. 1951. The conception of the word in languages of North American natives.
 Lingua Posnaniensis 3. 248–268.
-	  
- 11	  
+	
+  
+ 11	
+  
 • Book (whether authored or edited, book title followed by a period):
 Matthews, Peter. 1974. Morphology. Cambridge: Cambridge University Press.
 Lightfoot, David W. (ed.). 2002. Syntactic effects of morphological change. Oxford: Oxford
@@ -569,7 +1142,63 @@ The book title may be followed by series information (series title plus series n
 given in parentheses:
 Lahiri, Aditi (ed.). 2000. Analogy, leveling, markedness: Principles of change in phonology
 and morphology (Trends in Linguistics 127). Berlin: Mouton de Gruyter.
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 17
 The complete information about the volume is always included, even if other articles from the same volume
 are listed in the references. There is no need to list the volume itself separately, unless it is cited separately.
@@ -578,8 +1207,10 @@ convention of making some references sensitive to the existrence of other refere
 18
 The 2007 Unified Style Sheet has the university and the dissertation-type information as a single part, even
 though they are quite different types of information (“Berkeley: University of California dissertation”).
-	  
- 12	  
+	
+  
+ 12	
+  
 Series titles have special capitalization, like journal titles (see §2).
 16.6. Author surnames and given names
 The author names always appear in the order “surname, given name” in the list of
@@ -612,7 +1243,63 @@ Chinese and Korean names may be treated in a special way: As the surnames are of
 not very distinctive, the full name may be given in the in-text citation, e.g.
 the neutral negation bù is compatible with stative and activity verbs (cf. Teng Shou-hsin 1973; Hsieh
 Miao-Ling 2001; Lin Jo-wang 2003)
-	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 		  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+	
+  
 19
 This is a simplification over the 2007 Unified Style Sheet, which treats non-first names in author and
 editor lists in a special way, with inverted order.
@@ -625,8 +1312,10 @@ special way.
 22
 With classical authors such as de Saussure and von Humboldt, the first part of the name can be (and is often)
 omitted. But this is not possible with modern names (e.g. von Heusinger, never *Heusinger).
-	  
- 13	  
+	
+  
+ 13	
+  
 16.7. Internet publications
 Regular publications that are available online are not treated in a special way, as this
 applies to more and more publications anyway.
@@ -663,8 +1352,10 @@ Introduction to the issues]. Moskva: URSS.
 Chen, Shu-chuan (陳淑娟). 2013. Taibei Shezi fangyan de yuyin bianyi yu bianhua (台北社子方
 言的語音變異與變化) [The sound variation and change of Shezi dialect in Taipei city].
 Language and Linguistics 14(2). 371–408.
-	  
- 14	  
+	
+  
+ 14	
+  
 17. Rules for monographs and edited volumes
 17.1. Parts of books
 Books (as well as dissertations and other theses) consist of the following parts (with

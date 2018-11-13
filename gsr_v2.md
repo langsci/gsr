@@ -18,7 +18,13 @@ sooner or later, because they would no longer have to worry about enforcing thei
 styles.
 For the specific case of formatting rules for bibliographical references, this has already
 happened: In 2007, a number of linguistics journal editors agreed on a “Unified Style
-Sheet for Linguistics”,	 	 	 	 		  
+Sheet for Linguistics”,	
+ 	
+ 	
+ 	
+ 	
+	
+  
 [^https://linguistlist.org/pubs/journals/]
 and these rules for bibliographical reference style have been
 widely adopted, not just for journals, but also for linguistics books.
@@ -44,8 +50,21 @@ papers of a journal. The rules do not say anything about more specific notationa
 conventions that are relevant only to certain subcommunities of linguists, e.g. for
 syntactic tree representation, transcription of spoken dialogue, optimality-theoretic
 tableaux, and so on. (More specific style documents would be needed for each of these.)
-	 	 	 	 	 	 	 	 	 	 	 	 	  
-	  
+	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	  
+	
+  
 Nothing is said here about typographic features such as font type, font size,
 indentation and line spacing, let alone about margin and paper size. Traditional journal
 style sheets often specify these features as well, but such text-design features are aspects
@@ -213,7 +232,17 @@ be printed in roman.
 Cross-references to examples use numbers in parentheses as well,[^ This is the most widespread practice, although the Language stylesheet omits the parentheses in cross-
 references.] but when a cross-
 reference occurs inside parentheses, the parentheses around the numbers can be omitted:
- 	 	 	 	 	 	 	 	  	  
+
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+ 	
+  	
+  
 As shown in (6) and (8-11), this generalization extends to transitive constructions, but (29b) below
 constitutes an exception.
 In all other environments, the stress is on the second syllable (see 15a-d).
@@ -314,7 +343,8 @@ Each table and each figure has a caption. The caption precedes a table and follo
 figure. If it is not a complete sentence, it is not followed by a period.
 Tables generally have a top line and a bottom line plus a line below the column
 headers, e.g.
-	  
+	
+  
 Table 3: Frequency of some English nouns (BNC)
 
 
@@ -398,7 +428,8 @@ Chinese and Korean names may be treated in a special way: As the surnames are of
 not very distinctive, the full name may be given in the in-text citation, e.g.
 the neutral negation bù is compatible with stative and activity verbs (cf. Teng Shou-hsin 1973; Hsieh
 Miao-Ling 2001; Lin Jo-wang 2003)
-	  
+	
+  
 ### Internet publications
 Regular publications that are available online are not treated in a special way, as this
 applies to more and more publications anyway.
