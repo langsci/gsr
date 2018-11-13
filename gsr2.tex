@@ -11,7 +11,11 @@
 \usepackage{booktabs}
 \usepackage{xcolor}
 \usepackage{langsci-basic}
-
+\newfontfamily\cn[Mapping=tex-text,Ligatures=Common,Scale=MatchUppercase]{AR PL UMing CN}
+\newcommand{\zh}[1]{{\cn #1}}
+\XeTeXlinebreaklocale 'zh'  
+\XeTeXlinebreakskip = 0pt plus 1pt
+	
 \newenvironment{gsrexq}{\begin{quote}\color{blue}}{\end{quote}}
 \newcommand{\gsrex}[1]{{\color{blue}#1}}
 \newcommand{\RL}{\textsc{rl}}
@@ -30,7 +34,9 @@ certain style rules for structural aspects of their research papers and
 monographs, which in the past were primarily set and enforced by the
 academic publishers. But in the 21st century, science is increasingly
 international and research papers spread easily even without the
-publishers' copy-editors and style watchers. This does not mean that
+publishers' copy-editors and style watchers. 
+
+This does not mean that
 there is no need for style rules anymore. It makes our research and our
 publication activities easier if we agree on a common set of conventions
 for frequently recurring structural aspects of our writings, of the sort
@@ -42,22 +48,25 @@ different style rules in different papers is an unnecessary burden on
 the authors. If linguists could agree on a set of rules, then
 linguistics publishers would probably be happy to adopt them sooner or
 later, because they would no longer have to worry about enforcing their
-house styles. For the specific case of formatting rules for
+house styles. 
+
+For the specific case of formatting rules for
 bibliographical references, this has already happened: In 2007, a number
 of linguistics journal editors agreed on a ``Unified Style Sheet for
-Linguistics'',
-
-\footnote{\url{https://linguistlist.org/pubs/journals}} and these rules for
+Linguistics'',\footnote{\url{https://linguistlist.org/pubs/journals}} and these rules for
 bibliographical reference style have been widely adopted, not just for
-journals, but also for linguistics books. Another aspect of form style
+journals, but also for linguistics books. 
+
+Another aspect of form style
 has been widely adopted: The Leipzig Glossing Rules for interlinear
 morpheme-by-morpheme glosses.\footnote{\url{http://www.eva.mpg.de/lingua/resources/glossing-rules.php}}
 Quite a few
 journals and publishers now recommend or prescribe their use, and many
 authors refer to them. The Leipzig Glossing Rules are now typically
 taught in linguistics classes, and more and more linguists find it
-normal that knowing them is part of their disciplinary competence. The
-following style rules for formal aspects of linguistics papers were
+normal that knowing them is part of their disciplinary competence. 
+
+The following style rules for formal aspects of linguistics papers were
 formulated in the same spirit. Linguistics papers have been converging
 in their text-structure style over the last 20 years anyway, and while
 there are still a number of things that are sometimes done differently,
@@ -67,7 +76,9 @@ represents an innovation. Where they do not appear to reflect majority
 usage, they are always simpler than the majority usage (e.g.~eliminating
 poorly motivated exceptions to general rules). Text- structure style for
 scientific papers should primarily be practical and can often leave
-aside purely aesthetic considerations. The present style rules focus on
+aside purely aesthetic considerations. 
+
+The present style rules focus on
 special conventions for linguistics-specific aspects like numbered
 example sentences and the representation of expressions from other
 languages, but also provide guidance for many other aspects of
@@ -93,7 +104,9 @@ but concern the form of a paper as it should look to the reader. The
 reason for this is that while submission rules will continue to depend
 on diverse typesetting technologies, there is no reason why linguists
 should not agree on the way certain formal aspects of their papers
-should appear to the reader (i.e.~on text-structure style). Occasionally
+should appear to the reader (i.e.~on text-structure style). 
+
+Occasionally
 the rules below make reference to some other prominent stylesheets,
 especially those of the journals 
 \textit{Journal of Linguistics} (Cambridge),
@@ -111,7 +124,9 @@ especially those of the journals
 } 
 There is no systematic comparison, but some cross-references seem
 useful to make readers aware of certain salient differences between
-styles. The Generic Style Rules may be occasionally updated in the
+styles. 
+
+The Generic Style Rules may be occasionally updated in the
 future. Readers are invited to send comments to Martin Haspelmath
 (haspelmath@eva.mpg.de). They are published with a CC-BY licence, so
 anyone is free to put them on their website.
@@ -251,7 +266,9 @@ highlighting}\label{sec:boldface-and-other-highlighting}
 Boldface is generally not used. The only exception is to draw the
 reader's attention to particular aspects of a linguistic example,
 whether given within the text or as a numbered example. An illustration
-is the relative pronoun \textit{dem} in (4) in \sectref{sec:numberedexamples} below. Full caps and
+is the relative pronoun \textit{dem} in (4) in \sectref{sec:numberedexamples} below. 
+
+ALLCAPS and
 underlining are not normally used for highlighting. Exceptionally,
 underlining may be used to highlight a single letter in an example word,
 and in other cases where other kinds of highlighting would not work.
@@ -293,36 +310,48 @@ if they are short, in a footnote if they are longer).
 The n-dash (\gsrex{--}) surrounded by spaces is used for parenthetical remarks
 -- as in this example -- rather than the m-dash (\gsrex{---}). The n-dash is
 also used for number ranges, but not surrounded by spaces
-(e.g.~\gsrex{1995--1997}). Ellipsis in a quotation is indicated by
-\gsrex{\ldots}. Angle brackets are used for specific reference to
-written symbols, e.g.~\gsrex{the letter q}.
+(e.g.~\gsrex{1995--1997}).
+
+Ellipsis in a quotation is indicated by
+\gsrex{\ldots}. 
+
+Angle brackets are used for specific reference to
+written symbols, e.g.~\gsrex{the letter \textlangle q\textrangle}.
 
 \section{Abbreviations}\label{sec:abbreviations}
 
 Abbreviations of uncommon expressions should be avoided in the text.
-Language names should not normally be abbreviated. The use of
+Language names should not normally be abbreviated. 
+
+The use of
 abbreviations is desirable for grammatical category labels in
 interlinear morpheme-by-morpheme translations. (The Leipzig Glossing
 Rules include a standard list of frequently used and widely understood
-category label abbreviations.) When a complex term that is not widely
+category label abbreviations.) 
+
+When a complex term that is not widely
 known is referred to frequently, it may be abbreviated (e.g. \gsrex{\textsc{doc}} for
 ``double-object construction''). The abbreviation should be given both
 in the text when it is first used and at the end of the article in the
-Abbreviations section. Abbreviations of uncommon expressions are not
+\textit{Abbreviations} section. 
+
+Abbreviations of uncommon expressions are not
 used in headings or captions, and they should be avoided at the
 beginning of a chapter or major section.
 
 \section{In-text citation}\label{sec:in-text-citation}
 
-Please see the Unified Style Sheet.
+Please see the Unified Style Sheet:\\ \url{https://www.linguisticsociety.org/resource/unified-style-sheet}.
 
-\section{Numbered examples}\label{sec:numbered-examples}
+\section{Numbered examples}\label{sec:numberedexamples}
 
 A hallmark of many linguistics articles is the use of numbered examples.
 Unless they are from English (or more generally, the language of the
 article), they must be glossed and translated. Glossing refers to the
 use of interlinear word-by-word or morpheme-by- morpheme translations,
-as described in detail in the Leipzig Glossing Rules. Example numbers
+as described in detail in the Leipzig Glossing Rules. 
+
+Example numbers
 are enclosed in parentheses. When there are multiple examples
 (``sub-examples'') under a single number, they are distinguished by the
 letters a, b, etc.
@@ -336,6 +365,7 @@ letters a, b, etc.
 But when a numbered example is not glossed and translated (i.e.~in
 English works, when it is from English), it may be in roman (non-italic)
 type. Thus, (2a-b) could alternatively be printed in roman.
+
 Cross-references to examples use numbers in parentheses as well,\footnote{
 This is the most widespread practice, although the Language stylesheet
 omits the parentheses in cross- references.} but when a cross-
@@ -369,8 +399,9 @@ word-internal boundary symbol - and the clitic boundary symbol =) have
 to be present both in the primary text and in the gloss. Abbreviated
 category labels are set in small capitals, and the idiomatic translation
 is surrounded by single quotes. A list of abbreviations is provided at
-the end of the article (or at the beginning of a monograph). Example
-sentences usually have normal capitalization at the beginning and normal
+the end of the article (or at the beginning of a monograph).
+
+Example sentences usually have normal capitalization at the beginning and normal
 punctuation (usually a period) at the end. The gloss line has no
 capitalization and no punctuation. The idiomatic translation again has
 normal capitalization and punctuation, as seen in (3) above. When the
@@ -473,13 +504,17 @@ Tables and figures are numbered consecutively (\gsrex{Table 1},
 \gsrex{Figure 2},
 etc.). Each table must be mentioned in the running text and
 identified by its number. They appear in the text as close as possible
-to the place where they are mentioned. Each table and each figure has a
+to the place where they are mentioned. 
+
+Each table and each figure has a
 caption. The caption precedes a table and follows a figure. If it is not
-a complete sentence, it is not followed by a period. Tables generally
+a complete sentence, it is not followed by a period.
+
+Tables generally
 have a top line and a bottom line plus a line below the column headers,
 e.g.
 
-\begin{table}
+\begin{table}[h]
 \color{blue}
 \centering
 \label{tab:sg-pl-of-sg}
@@ -515,17 +550,23 @@ Abbreviations like
 ``Fig. 3'', 
 ``Ch. 4'', or 
 ``n. 17''
-are not used. Cross-references to sections can optionally use the \gsrex{§}
+are not used.
+
+Cross-references to sections can optionally use the \gsrex{§}
 character (e.g. \gsrex{§2.3}).
 
 \section{Footnotes}\label{sec:footnotes}
 
 Superscript footnote numbers follow punctuation, though exceptionally it
-may follow an individual word. Footnote numbers start with \gsrex{1}. The
+may follow an individual word.
+
+Footnote numbers start with \gsrex{1}. The
 acknowledgements are printed as a separate section following the body of
 the text, not as a footnote. Likewise, abbreviations and other
 notational conventions are given in a separate section (following the
-acknowledgements, see \sectref{sec:parts} above). Numbered examples in footnotes have the
+acknowledgements, see \sectref{sec:parts} above).
+
+Numbered examples in footnotes have the
 numbers \gsrex{(i)}, 
 \gsrex{(ii)}, etc. If there are sub- examples, they have the
 numbers \gsrex{(i.a)}, 
@@ -535,9 +576,13 @@ numbers \gsrex{(i.a)},
 
 All forms in languages that are not normally written with the Latin
 alphabet (such as Japanese or Armenian) should (additionally) be given
-in transcription or transliteration. When the article is entirely about
+in transcription or transliteration.
+
+When the article is entirely about
 a particular language, the original script should not be omitted, at
-least in numbered examples. Non-Latin forms need not be printed in
+least in numbered examples. 
+
+Non-Latin forms need not be printed in
 italics.
 
 \section{List of references}\label{sec:listofreferences}
@@ -549,8 +594,9 @@ listed alphabetically.
 \subsection{General points}\label{sec:general-points}
 
 For the formatting, the Generic Style Rules follow the 2007 Unified
-Style Sheet for Linguistics in almost all respects. It should be noted
-especially that
+Style Sheet for Linguistics in almost all respects. 
+
+It should be noted especially that
 
 \begin{itemize}
 \item  the names of authors and editors should be given in their full form as in the publication, without truncation of given names (but note that some authors habitually use initials only, e.g.~\gsrex{J.~K.~Rowling} and \gsrex{R.~M.~W.~Dixon}; these count as full)
@@ -571,7 +617,7 @@ series number), given in parentheses:
 Lahiri, Aditi (ed.). 2000. \textit{Analogy, leveling, markedness: Principles of change in phonology and morphology} (Trends in Linguistics 127). Berlin: Mouton de Gruyter.
 \end{gsrexq}
 
-Series titles have special capitalization, like journal titles (see \sectref{sec:capitalization}).\todo{chinese, paragraphs}
+Series titles have special capitalization, like journal titles (see \sectref{sec:capitalization}). 
 
 \subsection{Author surnames and given names}\label{sec:author-surnames-and-given-names}
 
@@ -625,8 +671,9 @@ verbs (cf.~Teng Shou-hsin 1973; Hsieh Miao-Ling 2001; Lin Jo-wang 2003)
 \subsection{Internet publications}\label{sec:internet-publications}
 
 Regular publications that are available online are not treated in a
-special way, as this applies to more and more publications anyway. When
-citing a web resource that is not a regular scientific publication, this
+special way, as this applies to more and more publications anyway. 
+
+When citing a web resource that is not a regular scientific publication, this
 should be treated like a book, to the extent that this is possible,
 e.g.
 
@@ -704,8 +751,8 @@ Moskva: URSS.
 
 
 \begin{gsrexq}
-Chen, Shu-chuan (陳淑娟). 2013. Taibei Shezi fangyan de yuyin bianyi yu bianhua
-(台北社子方 言的語音變異與變化) 
+Chen, Shu-chuan (\zh{陳淑娟}). 2013. Taibei Shezi fangyan de yuyin bianyi yu bianhua
+(\zh{台北社子方 言的語音變異與變化}) 
 [The sound variation and change of Shezi dialect in Taipei city]. 
 \textit{Language and Linguistics} 14(2). 371--408.
 \end{gsrexq}
@@ -724,18 +771,23 @@ following parts (with optional parts in parentheses): title page,
 colophon page, (dedication page,) contents, (acknowledgements or
 preface, abbreviations or notational conventions,) chapter 1, chapter 2,
 etc., appendix A, appendix B, etc., bibliography, name index, (language
-index,), subject index. Books may also group the chapters into parts
+index,), subject index. 
+
+Books may also group the chapters into parts
 (Part I, Part II, etc). A new part does not start a new chapter
 numbering. Parts mainly serve to provide orientation in the table of
 contents.
 
-\subsection{Monographs vs.~edited volumes}\label{sec:monographs-vs.edited-volumes}
+\subsection{Monographs vs.~edited volumes}\label{sec:monoev}
 
 Chapters of edited books are preceded by an abstract, like journal
 articles, but chapters of monographs are not accompanied by an abstract.
+
 Edited books are treated like a collection of journal articles,
 i.e.~each article has its own list of references and abbreviations, so
-that the articles can be read and understood independently. Chapters in
+that the articles can be read and understood independently.
+
+Chapters in
 edited volumes are numbered like chapters in monographs, but the chapter
 number is not contained in the section number, i.e.~Section 2 of Chapter
 5 is §2, not §5.2.
@@ -758,11 +810,12 @@ Note that when referring to parts of a book, \gsrex{§2.3} means §3 of Chapter 
 In monographs, the numbers of tables and figures are preceded by the
 chapter number. Thus, the second table in Chapter 3 is \gsrex{Table 3.2}.
 % (However, examples normally start with \gsrex{(1)} in each new chapter.)
+
 This rule does not apply to chapters in edited volumes, as the chapter
 numbers are not salient here.
 
 \subsection{Bibliographical references}\label{sec:bibliographical-references}
-
+\largerpage
 When a self-standing chapter in an edited book contains a reference to
 another chapter in the same book, the referred-to chapter is listed in
 the references in the normal way, as if it were published in a different
